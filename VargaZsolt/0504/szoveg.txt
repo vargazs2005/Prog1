@@ -1,0 +1,4 @@
+Ez
+Itt
+Egy
+Szöveg a fileban.

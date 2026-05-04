@@ -1,0 +1,4 @@
+Hello Debrecen!
+3+2=5
+Pi: 3.140000
+Egy betű: z
